@@ -33,5 +33,12 @@ Read the [documentation](https://pmd.github.io/latest/pmd_userdocs_installation.
 1. Clone the repo and read the Readme 
 2. Run `semgrep --config=https://semgrep.live/c/p/java <PathToFile>`
 
+* [VisualCodeGrepp](https://sourceforge.net/projects/visualcodegrepp/) (C++, C#, VB, PHP, Java, PL/SQL and COBOL)
+
+1. Download the latest version 
+2. Install it in WIndows
+3. Select the language
+4. Open the folder that contains the source code files.
+
 
 # Manual Review
