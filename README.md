@@ -28,6 +28,10 @@ Read the [documentation](https://pmd.github.io/latest/pmd_userdocs_installation.
 
 `java -Xmx4G -jar ../lib/discotek.deepdive-engine-1.5.5-beta.jar -decompile=true -project-directory=../sample-config -output-directory=/temp/report ../discotek.deepdive-1.5.5-beta.jar`
 
+* [Semgrep](https://github.com/returntocorp/semgrep) (java, python, golang, javascript)
+
+1. Clone the repo and read the Readme 
+2. Run `semgrep --config=https://semgrep.live/c/p/java <PathToFile>`
 
 
 # Manual Review
