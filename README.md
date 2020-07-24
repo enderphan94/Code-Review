@@ -96,5 +96,11 @@ Read the [documentation](https://pmd.github.io/latest/pmd_userdocs_installation.
 3. Select the language
 4. Open the folder that contains the source code files.
 
+* [Gaudit](https://github.com/wireghoul/graudit)
+
+
+
 
 # Manual Review
+
+https://github.com/AlDanial/cloc
